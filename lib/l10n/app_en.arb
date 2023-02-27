@@ -1,0 +1,14 @@
+{
+    "title": "My affairs",
+    "done": "Done",
+    "newTodo": "New",
+    "hintText": "What to do...",
+    "importance": "Importance",
+    "low": "Low",
+    "basic": "Basic",
+    "important": "!! Important",
+    "makeItTo": "Make it to",
+    "save": "Save",
+    "delete": "Delete",
+    "done": "Done"
+}
